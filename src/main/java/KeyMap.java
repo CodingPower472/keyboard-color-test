@@ -21,7 +21,7 @@ public class KeyMap {
                     "w",
                     "s",
                     "x",
-                    "alt"
+                    "lalt"
             }, {
                 "f2",
             "3",
@@ -33,6 +33,7 @@ public class KeyMap {
             {
                 "f3",
                     "4",
+                    "r",
                     "f",
                     "v",
                     "space"
